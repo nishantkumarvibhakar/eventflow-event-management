@@ -7,8 +7,8 @@
 ---
 
 ## 🌐 Live Demo & Repository
-- **Live Demo Link:** `https://<your-username>.github.io/eventflow-event-management/` *(or deployed on Vercel/Netlify)*
-- **GitHub Repository:** `https://github.com/<your-username>/eventflow-event-management`
+- **Live Demo Link:** `https://nishantkumarvibhakar.github.io/eventflow-event-management/`
+- **GitHub Repository:** `https://github.com/nishantkumarvibhakar/eventflow-event-management`
 
 ---
 
@@ -139,7 +139,7 @@ Because EventFlow is built entirely with vanilla web standards, it requires **ze
 ### Option 1: Direct Browser Launch
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/eventflow-event-management.git
+   git clone https://github.com/nishantkumarvibhakar/eventflow-event-management.git
    cd eventflow-event-management
    ```
 2. Double-click `index.html` or open it with any web browser (Chrome, Edge, Firefox, Safari).
@@ -169,13 +169,13 @@ You can serve the directory using Python or Node.js:
    git add .
    git commit -m "Initial commit: EventFlow Event Management Platform"
    git branch -M main
-   git remote add origin https://github.com/<your-username>/eventflow-event-management.git
+   git remote add origin https://github.com/nishantkumarvibhakar/eventflow-event-management.git
    git push -u origin main
    ```
 2. On GitHub, navigate to **Settings** > **Pages** (under the "Code and automation" section).
 3. Under **Branch**, select `main` and folder `/ (root)`, then click **Save**.
 4. Within 1–2 minutes, your website will be live at:
-   `https://<your-username>.github.io/eventflow-event-management/`
+   `https://nishantkumarvibhakar.github.io/eventflow-event-management/`
 
 ### 2. Deploying to Vercel
 1. Install Vercel CLI (`npm i -g vercel`) or go to [vercel.com](https://vercel.com).
