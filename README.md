@@ -7,8 +7,9 @@
 ---
 
 ## 🌐 Live Demo & Repository
-- **Live Demo Link:** `https://nishantkumarvibhakar.github.io/eventflow-event-management/`
-- **GitHub Repository:** `https://github.com/nishantkumarvibhakar/eventflow-event-management`
+- **Live Demo Link (Vercel):** https://eventflow-event-management-eight.vercel.app
+- **Live Demo Link (GitHub Pages):** https://nishantkumarvibhakar.github.io/eventflow-event-management/
+- **GitHub Repository:** https://github.com/nishantkumarvibhakar/eventflow-event-management
 
 ---
 
