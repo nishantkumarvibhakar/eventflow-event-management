@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%" height="100%">
+  <defs>
+    <linearGradient id="musicGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#881337" />
+      <stop offset="50%" stop-color="#e11d48" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#musicGrad)" />
+  <circle cx="200" cy="150" r="120" fill="rgba(255,255,255,0.06)" />
+  <circle cx="650" cy="300" r="180" fill="rgba(255,255,255,0.05)" />
+  <g fill="#ffffff" text-anchor="middle" font-family="system-ui, sans-serif">
+    <text x="400" y="215" font-size="28" font-weight="800" letter-spacing="1">NEOSOUND INDIE FEST</text>
+    <text x="400" y="250" font-size="16" fill="rgba(255,255,255,0.8)" font-weight="600">LIVE AUDIO &amp; VISUALS</text>
+  </g>
+</svg>
